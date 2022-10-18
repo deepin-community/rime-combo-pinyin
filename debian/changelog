@@ -1,0 +1,23 @@
+rime-combo-pinyin (0.0~git20220216.1d94cf5-1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Mon, 20 Jun 2022 10:17:54 +0800
+
+rime-combo-pinyin (0.0~git20220216.1d94cf5-1) unstable; urgency=medium
+
+  * New upstream snapshot.
+
+ -- Boyuan Yang <byang@debian.org>  Sun, 20 Feb 2022 12:37:07 -0500
+
+rime-combo-pinyin (0.0~git20220126.b17c37b-1) unstable; urgency=medium
+
+  * New upstream snapshot.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 09 Feb 2022 19:15:21 -0500
+
+rime-combo-pinyin (0.0~git20211220.b8d3a46-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1002475)
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 22 Dec 2021 14:09:12 -0500

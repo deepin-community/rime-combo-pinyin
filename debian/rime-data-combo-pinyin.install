@@ -1,0 +1,2 @@
+build/combo_pinyin* usr/share/rime-data/build/
+combo_pinyin*.yaml usr/share/rime-data/
